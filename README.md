@@ -20,6 +20,8 @@ Currently looking for a full time position as a Software Engineer, preferably Fu
 ### Current Works In Progress
 💼 <a href='https://keeghawkportfolio.onrender.com'>Portfolio Site</a>
 
+💽 <a href='https://github.com/Khawk2000/react-mini-projects'>React Mini Projects</a>
+
 🚗 <a href='https://fascar.onrender.com'>Fascar Rental Site</a>
 
 🏋️ <a href='https://www.mentalfortitudellc.com'>Workout Buddy (for Mental Fortitude LLC)</a>
