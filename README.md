@@ -1,16 +1,25 @@
-## Hi there 👋
+## Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Keegan Hawkins
 
-<!--
-**Khawk2000/Khawk2000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
+A Software Engineer specializing in Full-Stack Development using JavaScript technologies. Professional experience with Machine Learning at internship with AvaSure.
 
-Here are some ideas to get you started:
+I am honing my development skills inside of this GitHub for people to both see my experience and learn.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently looking for a full time position as a Software Engineer, preferably Full-Stack Developer.
+
+---
+
+🧰 Toolbox
+---
+<img src='https://skillicons.dev/icons?i=js,html,css' alt='jshtmlcss'/>
+<img src='https://skillicons.dev/icons?i=mongodb,express,react,nodejs' alt='Mernstack'/>
+<img src='https://skillicons.dev/icons?i=cs,dotnet' alt='microsoftstack'/>
+<img src='https://skillicons.dev/icons?i=py,java,c' alt='otherlanguages'/>
+---
+
+### Current Works In Progress
+💼 <a href='https://keeghawkportfolio.onrender.com'>Portfolio Site</a>
+
+🚗 <a href='https://fascar.onrender.com'>Fascar Rental Site</a>
+
+🏋️ <a href='https://www.mentalfortitudellc.com'>Workout Buddy (for Mental Fortitude LLC)</a>
